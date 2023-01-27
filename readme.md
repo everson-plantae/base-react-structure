@@ -3,10 +3,6 @@
 - Estrutura de pasta: Module/Feature Based
 - Linguagem de programação: ReactJs + TypeScript
 - Orientação de código: Princípio SOLID
-- Extenção de arquivos
-    - React -> .jsx
-    - Node -> .js
-
 
 ### Estrutura de projeto (Material de pesquisa)
 
@@ -20,4 +16,3 @@
 - Habilitar o uso de alias para `require/import` - Babel
 - Adicionar um plugin de `review` de código - ESLint
 - Adicionar biblioteca de testes
-- 

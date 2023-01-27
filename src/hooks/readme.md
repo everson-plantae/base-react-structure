@@ -1,0 +1,1 @@
+Essa pasta deve conter todas as APIs de comunicação externa do aplicativo.

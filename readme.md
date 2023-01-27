@@ -4,7 +4,7 @@
 - Linguagem de programação: ReactJs + TypeScript
 - Orientação de código: Princípio SOLID
 
-### Estrutura de projeto (Material de pesquisa)
+### Estrutura de projeto (material de pesquisa)
 
 - [Material 1](https://www.sitepoint.com/organize-large-react-application/)
 - [Material 2](https://github.com/jsx-eslint/eslint-plugin-react/blob/HEAD/docs/rules/jsx-filename-extension.md)

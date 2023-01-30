@@ -21,3 +21,7 @@
   - Sugestão: O AirBnb tem um repositorio bem popular com regras definidas: [Link](https://github.com/airbnb/javascript)
 - Biblioteca de testes: [Jest](https://jestjs.io/pt-BR/docs/tutorial-react)
 - Biblioteca de estado: [Redux Toolkit](https://redux-toolkit.js.org)
+
+### Sugestões
+
+- Biblioteca de documentação de componentes: [Storybook](https://storybook.js.org)

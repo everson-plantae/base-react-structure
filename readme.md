@@ -18,5 +18,6 @@
 
 - Habilitar o uso de alias para `require/import` - Babel
 - Adicionar um plugin de `review` de código - ESLint
-- Adicionar biblioteca de testes
+  - Sugestão: O AirBnb tem um repositorio bem popular com regras definidas: [Link](https://github.com/airbnb/javascript)
+- Biblioteca de testes: [Jest](https://jestjs.io/pt-BR/docs/tutorial-react)
 - Biblioteca de estado: [Redux Toolkit](https://redux-toolkit.js.org)

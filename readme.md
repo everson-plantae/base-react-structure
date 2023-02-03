@@ -24,4 +24,6 @@
 
 ### Sugestões
 
+- Atualizações - que não precisam da aprovação da Google/Apple - OTA (Over-the-air) [Material de Estudo](https://pagepro.co/blog/react-native-over-the-air-updates) - [Microsoft AppCenter](https://appcenter.ms/apps)
 - Biblioteca de documentação de componentes: [Storybook](https://storybook.js.org)
+
